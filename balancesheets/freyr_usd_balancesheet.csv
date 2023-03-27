@@ -1,0 +1,62 @@
+name,12/31/2022,12/31/2021,12/31/2020
+TotalAssets,"827,698,000","627,033,000","15,931,000"
+	CurrentAssets,"579,455,000","582,791,000","15,851,000"
+		CashCashEquivalentsAndShortTermInvestments,"443,063,000","563,956,000","14,749,000"
+			CashAndCashEquivalents,"443,063,000","563,956,000","14,749,000"
+		PrepaidAssets,"8,293,000","15,882,000","464,000"
+		RestrictedCash,"119,982,000","1,671,000","196,000"
+		OtherCurrentAssets,"8,117,000","1,282,000","442,000"
+	TotalNonCurrentAssets,"248,243,000","44,242,000","80,000"
+		NetPPE,"225,315,000","21,062,000","80,000"
+			GrossPPE,"225,865,000","21,197,000","95,000"
+				Properties,"0",,
+				LandAndImprovements,"44,326,000",,
+				MachineryFurnitureEquipment,"2,614,000","1,180,000","98,000"
+				OtherProperties,"14,538,000","21,062,000","-3,000"
+				ConstructionInProgress,"164,387,000","20,017,000","0"
+			AccumulatedDepreciation,"-550,000","-135,000","-15,000"
+		GoodwillAndOtherIntangibleAssets,"2,963,000",,
+			OtherIntangibleAssets,"2,963,000",,
+		InvestmentsAndAdvances,"0","2,938,000","0"
+			LongTermEquityInvestment,"0","2,938,000","0"
+		NonCurrentNoteReceivables,"19,954,000","20,000,000","0"
+		OtherNonCurrentAssets,"11,000","242,000",
+TotalLiabilitiesNetMinorityInterest,"107,571,000","81,548,000","10,975,000"
+	CurrentLiabilities,"62,578,000","25,797,000","10,937,000"
+		PayablesAndAccruedExpenses,"54,954,000","22,194,000","2,903,000"
+			Payables,"6,765,000","7,129,000","1,210,000"
+				AccountsPayable,"6,765,000","7,129,000","1,210,000"
+			CurrentAccruedExpenses,"48,189,000","15,065,000","1,693,000"
+		PensionandOtherPostRetirementBenefitPlansCurrent,"4,367,000","2,211,000","460,000"
+		CurrentDebtAndCapitalLeaseObligation,"3,257,000",,
+			CurrentCapitalLeaseObligation,"3,257,000",,
+		CurrentDeferredLiabilities,,"1,380,000","0"
+			CurrentDeferredRevenue,,"1,380,000","0"
+		OtherCurrentLiabilities,,"12,000","7,574,000"
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"44,993,000","55,751,000","38,000"
+		LongTermDebtAndCapitalLeaseObligation,"11,144,000",,
+			LongTermCapitalLeaseObligation,"11,144,000",,
+		EmployeeBenefits,"0","6,627,000","38,000"
+			NonCurrentPensionAndOtherPostretirementBenefitPlans,,"6,627,000","38,000"
+		DerivativeProductLiabilities,"33,849,000","49,124,000","0"
+TotalEquityGrossMinorityInterest,"720,127,000","545,485,000","4,956,000"
+	StockholdersEquity,"717,455,000","545,485,000","4,956,000"
+		CapitalStock,"139,854,000","116,854,000","0"
+			CommonStock,"139,854,000","116,854,000","0"
+		AdditionalPaidInCapital,"772,602,000","533,418,000","15,183,000"
+		RetainedEarnings,"-203,054,000","-104,263,000","-10,885,000"
+		TreasuryStock,"1,041,000",,
+		GainsLossesNotAffectingRetainedEarnings,"9,094,000","-524,000","658,000"
+			OtherEquityAdjustments,"9,094,000","-524,000","658,000"
+	MinorityInterest,"2,672,000",,
+TotalCapitalization,"717,455,000","545,485,000","4,956,000"
+CommonStockEquity,"717,455,000","545,485,000","4,956,000"
+CapitalLeaseObligations,"14,401,000",,
+NetTangibleAssets,"714,492,000","545,485,000","4,956,000"
+WorkingCapital,"516,877,000","556,994,000","4,914,000"
+InvestedCapital,"717,455,000","545,485,000","4,956,000"
+TangibleBookValue,"714,492,000","545,485,000","4,956,000"
+TotalDebt,"14,401,000",,
+ShareIssued,"139,854,000","116,853,504","116,440,191"
+OrdinarySharesNumber,"139,705,000","116,853,504","116,440,191"
+TreasurySharesNumber,"149,000",,
